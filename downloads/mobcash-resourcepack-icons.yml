@@ -1,424 +1,634 @@
-# MobCash ResourcePack - lista ikon
-# Material wszystkich ikon: PAPER
-# Przyklad configu: custom-model-data: 20001
+﻿# MobCash ResourcePack - lista ikon
+# Symbole czcionki dzialaja bezposrednio w tekscie: czat, hologramy, GUI, scoreboard, TAB itp.
+# Zakres Unicode: \uE001 - \uE069
 icons:
   v1_banknot:
+    symbol: ''
+    unicode: '\uE001'
     material: PAPER
     custom-model-data: 20001
     item-model: 'mobcash:v1_banknot'
   v1_chat:
+    symbol: ''
+    unicode: '\uE002'
     material: PAPER
     custom-model-data: 20002
     item-model: 'mobcash:v1_chat'
   v1_checkbox:
+    symbol: ''
+    unicode: '\uE003'
     material: PAPER
     custom-model-data: 20003
     item-model: 'mobcash:v1_checkbox'
   v1_coin:
+    symbol: ''
+    unicode: '\uE004'
     material: PAPER
     custom-model-data: 20004
     item-model: 'mobcash:v1_coin'
   v1_cukierek:
+    symbol: ''
+    unicode: '\uE005'
     material: PAPER
     custom-model-data: 20005
     item-model: 'mobcash:v1_cukierek'
   v1_czaszka:
+    symbol: ''
+    unicode: '\uE006'
     material: PAPER
     custom-model-data: 20006
     item-model: 'mobcash:v1_czaszka'
   v1_dzida:
+    symbol: ''
+    unicode: '\uE007'
     material: PAPER
     custom-model-data: 20007
     item-model: 'mobcash:v1_dzida'
   v1_gwiazdka:
+    symbol: ''
+    unicode: '\uE008'
     material: PAPER
     custom-model-data: 20008
     item-model: 'mobcash:v1_gwiazdka'
   v1_helm:
+    symbol: ''
+    unicode: '\uE009'
     material: PAPER
     custom-model-data: 20009
     item-model: 'mobcash:v1_helm'
   v1_kamien:
+    symbol: ''
+    unicode: '\uE00A'
     material: PAPER
     custom-model-data: 20010
     item-model: 'mobcash:v1_kamien'
   v1_kiel:
+    symbol: ''
+    unicode: '\uE00B'
     material: PAPER
     custom-model-data: 20011
     item-model: 'mobcash:v1_kiel'
   v1_kilof:
+    symbol: ''
+    unicode: '\uE00C'
     material: PAPER
     custom-model-data: 20012
     item-model: 'mobcash:v1_kilof'
   v1_klan:
+    symbol: ''
+    unicode: '\uE00D'
     material: PAPER
     custom-model-data: 20013
     item-model: 'mobcash:v1_klan'
   v1_klata:
+    symbol: ''
+    unicode: '\uE00E'
     material: PAPER
     custom-model-data: 20014
     item-model: 'mobcash:v1_klata'
   v1_klata3:
+    symbol: ''
+    unicode: '\uE00F'
     material: PAPER
     custom-model-data: 20015
     item-model: 'mobcash:v1_klata3'
   v1_klejnot:
+    symbol: ''
+    unicode: '\uE010'
     material: PAPER
     custom-model-data: 20016
     item-model: 'mobcash:v1_klejnot'
   v1_klucz:
+    symbol: ''
+    unicode: '\uE011'
     material: PAPER
     custom-model-data: 20017
     item-model: 'mobcash:v1_klucz'
   v1_kociolek:
+    symbol: ''
+    unicode: '\uE012'
     material: PAPER
     custom-model-data: 20018
     item-model: 'mobcash:v1_kociolek'
   v1_koronka:
+    symbol: ''
+    unicode: '\uE013'
     material: PAPER
     custom-model-data: 20019
     item-model: 'mobcash:v1_koronka'
   v1_kosa:
+    symbol: ''
+    unicode: '\uE014'
     material: PAPER
     custom-model-data: 20020
     item-model: 'mobcash:v1_kosa'
   v1_kula:
+    symbol: ''
+    unicode: '\uE015'
     material: PAPER
     custom-model-data: 20021
     item-model: 'mobcash:v1_kula'
   v1_kupon:
+    symbol: ''
+    unicode: '\uE016'
     material: PAPER
     custom-model-data: 20022
     item-model: 'mobcash:v1_kupon'
   v1_latarka:
+    symbol: ''
+    unicode: '\uE017'
     material: PAPER
     custom-model-data: 20023
     item-model: 'mobcash:v1_latarka'
   v1_lornetka:
+    symbol: ''
+    unicode: '\uE018'
     material: PAPER
     custom-model-data: 20024
     item-model: 'mobcash:v1_lornetka'
   v1_luk:
+    symbol: ''
+    unicode: '\uE019'
     material: PAPER
     custom-model-data: 20025
     item-model: 'mobcash:v1_luk'
   v1_magnes:
+    symbol: ''
+    unicode: '\uE01A'
     material: PAPER
     custom-model-data: 20026
     item-model: 'mobcash:v1_magnes'
   v1_mapa:
+    symbol: ''
+    unicode: '\uE01B'
     material: PAPER
     custom-model-data: 20027
     item-model: 'mobcash:v1_mapa'
   v1_medalion:
+    symbol: ''
+    unicode: '\uE01C'
     material: PAPER
     custom-model-data: 20028
     item-model: 'mobcash:v1_medalion'
-  v1_miecz_2:
+  v1_miecz:
+    symbol: ''
+    unicode: '\uE01D'
     material: PAPER
     custom-model-data: 20029
-    item-model: 'mobcash:v1_miecz_2'
-  v1_miecz_3:
+    item-model: 'mobcash:v1_miecz'
+  v1_miecz_2:
+    symbol: ''
+    unicode: '\uE01E'
     material: PAPER
     custom-model-data: 20030
-    item-model: 'mobcash:v1_miecz_3'
-  v1_miecz:
+    item-model: 'mobcash:v1_miecz_2'
+  v1_miecz_3:
+    symbol: ''
+    unicode: '\uE01F'
     material: PAPER
     custom-model-data: 20031
-    item-model: 'mobcash:v1_miecz'
+    item-model: 'mobcash:v1_miecz_3'
   v1_motyka:
+    symbol: ''
+    unicode: '\uE020'
     material: PAPER
     custom-model-data: 20032
     item-model: 'mobcash:v1_motyka'
   v1_nagrobek:
+    symbol: ''
+    unicode: '\uE021'
     material: PAPER
     custom-model-data: 20033
     item-model: 'mobcash:v1_nagrobek'
   v1_parasolka:
+    symbol: ''
+    unicode: '\uE022'
     material: PAPER
     custom-model-data: 20034
     item-model: 'mobcash:v1_parasolka'
   v1_potka:
+    symbol: ''
+    unicode: '\uE023'
     material: PAPER
     custom-model-data: 20035
     item-model: 'mobcash:v1_potka'
   v1_profil:
+    symbol: ''
+    unicode: '\uE024'
     material: PAPER
     custom-model-data: 20036
     item-model: 'mobcash:v1_profil'
   v1_puchar:
+    symbol: ''
+    unicode: '\uE025'
     material: PAPER
     custom-model-data: 20037
     item-model: 'mobcash:v1_puchar'
   v1_sakiewka:
+    symbol: ''
+    unicode: '\uE026'
     material: PAPER
     custom-model-data: 20038
     item-model: 'mobcash:v1_sakiewka'
   v1_serce:
+    symbol: ''
+    unicode: '\uE027'
     material: PAPER
     custom-model-data: 20039
     item-model: 'mobcash:v1_serce'
   v1_shuriken:
+    symbol: ''
+    unicode: '\uE028'
     material: PAPER
     custom-model-data: 20040
     item-model: 'mobcash:v1_shuriken'
   v1_skrzynka:
+    symbol: ''
+    unicode: '\uE029'
     material: PAPER
     custom-model-data: 20041
     item-model: 'mobcash:v1_skrzynka'
   v1_swiecznik:
+    symbol: ''
+    unicode: '\uE02A'
     material: PAPER
     custom-model-data: 20042
     item-model: 'mobcash:v1_swiecznik'
   v1_tarcza:
+    symbol: ''
+    unicode: '\uE02B'
     material: PAPER
     custom-model-data: 20043
     item-model: 'mobcash:v1_tarcza'
   v1_tiktok:
+    symbol: ''
+    unicode: '\uE02C'
     material: PAPER
     custom-model-data: 20044
     item-model: 'mobcash:v1_tiktok'
   v1_x:
+    symbol: ''
+    unicode: '\uE02D'
     material: PAPER
     custom-model-data: 20045
     item-model: 'mobcash:v1_x'
   v1_zebatka:
+    symbol: ''
+    unicode: '\uE02E'
     material: PAPER
     custom-model-data: 20046
     item-model: 'mobcash:v1_zebatka'
   v1_zielona_siekierka:
+    symbol: ''
+    unicode: '\uE02F'
     material: PAPER
     custom-model-data: 20047
     item-model: 'mobcash:v1_zielona_siekierka'
   v1_zlote_serce:
+    symbol: ''
+    unicode: '\uE030'
     material: PAPER
     custom-model-data: 20048
     item-model: 'mobcash:v1_zlote_serce'
   v1_zloty_zegar:
+    symbol: ''
+    unicode: '\uE031'
     material: PAPER
     custom-model-data: 20049
     item-model: 'mobcash:v1_zloty_zegar'
   v1_znak_ostrzegawczy:
+    symbol: ''
+    unicode: '\uE032'
     material: PAPER
     custom-model-data: 20050
     item-model: 'mobcash:v1_znak_ostrzegawczy'
   v1_znak_zapytania:
+    symbol: ''
+    unicode: '\uE033'
     material: PAPER
     custom-model-data: 20051
     item-model: 'mobcash:v1_znak_zapytania'
   v2_aparat:
+    symbol: ''
+    unicode: '\uE034'
     material: PAPER
     custom-model-data: 20052
     item-model: 'mobcash:v2_aparat'
   v2_block:
+    symbol: ''
+    unicode: '\uE035'
     material: PAPER
     custom-model-data: 20053
     item-model: 'mobcash:v2_block'
   v2_coiny:
+    symbol: ''
+    unicode: '\uE036'
     material: PAPER
     custom-model-data: 20054
     item-model: 'mobcash:v2_coiny'
   v2_czaszka:
+    symbol: ''
+    unicode: '\uE037'
     material: PAPER
     custom-model-data: 20055
     item-model: 'mobcash:v2_czaszka'
   v2_diament:
+    symbol: ''
+    unicode: '\uE038'
     material: PAPER
     custom-model-data: 20056
     item-model: 'mobcash:v2_diament'
   v2_discord:
+    symbol: ''
+    unicode: '\uE039'
     material: PAPER
     custom-model-data: 20057
     item-model: 'mobcash:v2_discord'
   v2_gamepad:
+    symbol: ''
+    unicode: '\uE03A'
     material: PAPER
     custom-model-data: 20058
     item-model: 'mobcash:v2_gamepad'
   v2_globus:
+    symbol: ''
+    unicode: '\uE03B'
     material: PAPER
     custom-model-data: 20059
     item-model: 'mobcash:v2_globus'
   v2_gracz:
+    symbol: ''
+    unicode: '\uE03C'
     material: PAPER
     custom-model-data: 20060
     item-model: 'mobcash:v2_gracz'
   v2_gracz2:
+    symbol: ''
+    unicode: '\uE03D'
     material: PAPER
     custom-model-data: 20061
     item-model: 'mobcash:v2_gracz2'
   v2_gwiazdka:
+    symbol: ''
+    unicode: '\uE03E'
     material: PAPER
     custom-model-data: 20062
     item-model: 'mobcash:v2_gwiazdka'
   v2_helm:
+    symbol: ''
+    unicode: '\uE03F'
     material: PAPER
     custom-model-data: 20063
     item-model: 'mobcash:v2_helm'
   v2_helm2:
+    symbol: ''
+    unicode: '\uE040'
     material: PAPER
     custom-model-data: 20064
     item-model: 'mobcash:v2_helm2'
   v2_helm3:
+    symbol: ''
+    unicode: '\uE041'
     material: PAPER
     custom-model-data: 20065
     item-model: 'mobcash:v2_helm3'
   v2_helm4:
+    symbol: ''
+    unicode: '\uE042'
     material: PAPER
     custom-model-data: 20066
     item-model: 'mobcash:v2_helm4'
   v2_kalendarz:
+    symbol: ''
+    unicode: '\uE043'
     material: PAPER
     custom-model-data: 20067
     item-model: 'mobcash:v2_kalendarz'
   v2_kasa:
+    symbol: ''
+    unicode: '\uE044'
     material: PAPER
     custom-model-data: 20068
     item-model: 'mobcash:v2_kasa'
   v2_kij_bejsbolowy:
+    symbol: ''
+    unicode: '\uE045'
     material: PAPER
     custom-model-data: 20069
     item-model: 'mobcash:v2_kij_bejsbolowy'
   v2_klepsydra:
+    symbol: ''
+    unicode: '\uE046'
     material: PAPER
     custom-model-data: 20070
     item-model: 'mobcash:v2_klepsydra'
   v2_klucz:
+    symbol: ''
+    unicode: '\uE047'
     material: PAPER
     custom-model-data: 20071
     item-model: 'mobcash:v2_klucz'
   v2_koronka:
+    symbol: ''
+    unicode: '\uE048'
     material: PAPER
     custom-model-data: 20072
     item-model: 'mobcash:v2_koronka'
   v2_koronka2:
+    symbol: ''
+    unicode: '\uE049'
     material: PAPER
     custom-model-data: 20073
     item-model: 'mobcash:v2_koronka2'
   v2_koronka3:
+    symbol: ''
+    unicode: '\uE04A'
     material: PAPER
     custom-model-data: 20074
     item-model: 'mobcash:v2_koronka3'
   v2_kot:
+    symbol: ''
+    unicode: '\uE04B'
     material: PAPER
     custom-model-data: 20075
     item-model: 'mobcash:v2_kot'
   v2_lornetka:
+    symbol: ''
+    unicode: '\uE04C'
     material: PAPER
     custom-model-data: 20076
     item-model: 'mobcash:v2_lornetka'
   v2_mlot:
+    symbol: ''
+    unicode: '\uE04D'
     material: PAPER
     custom-model-data: 20077
     item-model: 'mobcash:v2_mlot'
   v2_mlotek:
+    symbol: ''
+    unicode: '\uE04E'
     material: PAPER
     custom-model-data: 20078
     item-model: 'mobcash:v2_mlotek'
   v2_money:
+    symbol: ''
+    unicode: '\uE04F'
     material: PAPER
     custom-model-data: 20079
     item-model: 'mobcash:v2_money'
   v2_ogien:
+    symbol: ''
+    unicode: '\uE050'
     material: PAPER
     custom-model-data: 20080
     item-model: 'mobcash:v2_ogien'
   v2_planeta:
+    symbol: ''
+    unicode: '\uE051'
     material: PAPER
     custom-model-data: 20081
     item-model: 'mobcash:v2_planeta'
   v2_planeta2:
+    symbol: ''
+    unicode: '\uE052'
     material: PAPER
     custom-model-data: 20082
     item-model: 'mobcash:v2_planeta2'
   v2_portfel:
+    symbol: ''
+    unicode: '\uE053'
     material: PAPER
     custom-model-data: 20083
     item-model: 'mobcash:v2_portfel'
   v2_potka:
+    symbol: ''
+    unicode: '\uE054'
     material: PAPER
     custom-model-data: 20084
     item-model: 'mobcash:v2_potka'
   v2_potka2:
+    symbol: ''
+    unicode: '\uE055'
     material: PAPER
     custom-model-data: 20085
     item-model: 'mobcash:v2_potka2'
   v2_puchar:
+    symbol: ''
+    unicode: '\uE056'
     material: PAPER
     custom-model-data: 20086
     item-model: 'mobcash:v2_puchar'
   v2_rakieta:
+    symbol: ''
+    unicode: '\uE057'
     material: PAPER
     custom-model-data: 20087
     item-model: 'mobcash:v2_rakieta'
   v2_sakiewka:
+    symbol: ''
+    unicode: '\uE058'
     material: PAPER
     custom-model-data: 20088
     item-model: 'mobcash:v2_sakiewka'
   v2_skrzynka:
+    symbol: ''
+    unicode: '\uE059'
     material: PAPER
     custom-model-data: 20089
     item-model: 'mobcash:v2_skrzynka'
   v2_tarcza:
+    symbol: ''
+    unicode: '\uE05A'
     material: PAPER
     custom-model-data: 20090
     item-model: 'mobcash:v2_tarcza'
   v2_zegar:
+    symbol: ''
+    unicode: '\uE05B'
     material: PAPER
     custom-model-data: 20091
     item-model: 'mobcash:v2_zegar'
   v2_ziemia:
+    symbol: ''
+    unicode: '\uE05C'
     material: PAPER
     custom-model-data: 20092
     item-model: 'mobcash:v2_ziemia'
   money:
+    symbol: ''
+    unicode: '\uE05D'
     material: PAPER
     custom-model-data: 20093
     item-model: 'mobcash:money'
   multiplayer:
+    symbol: ''
+    unicode: '\uE05E'
     material: PAPER
     custom-model-data: 20094
     item-model: 'mobcash:multiplayer'
   market:
+    symbol: ''
+    unicode: '\uE05F'
     material: PAPER
     custom-model-data: 20095
     item-model: 'mobcash:market'
   market_2:
+    symbol: ''
+    unicode: '\uE060'
     material: PAPER
     custom-model-data: 20096
     item-model: 'mobcash:market_2'
   calendar:
+    symbol: ''
+    unicode: '\uE061'
     material: PAPER
     custom-model-data: 20097
     item-model: 'mobcash:calendar'
   battle_pass:
+    symbol: ''
+    unicode: '\uE062'
     material: PAPER
     custom-model-data: 20098
     item-model: 'mobcash:battle_pass'
   shard:
+    symbol: ''
+    unicode: '\uE063'
     material: PAPER
     custom-model-data: 20099
     item-model: 'mobcash:shard'
   gem:
+    symbol: ''
+    unicode: '\uE064'
     material: PAPER
     custom-model-data: 20100
     item-model: 'mobcash:gem'
   upgrade:
+    symbol: ''
+    unicode: '\uE065'
     material: PAPER
     custom-model-data: 20101
     item-model: 'mobcash:upgrade'
   night:
+    symbol: ''
+    unicode: '\uE066'
     material: PAPER
     custom-model-data: 20102
     item-model: 'mobcash:night'
   prestidge:
+    symbol: ''
+    unicode: '\uE067'
     material: PAPER
     custom-model-data: 20103
     item-model: 'mobcash:prestidge'
   rebirth:
+    symbol: ''
+    unicode: '\uE068'
     material: PAPER
     custom-model-data: 20104
     item-model: 'mobcash:rebirth'
   settings:
+    symbol: ''
+    unicode: '\uE069'
     material: PAPER
     custom-model-data: 20105
     item-model: 'mobcash:settings'
