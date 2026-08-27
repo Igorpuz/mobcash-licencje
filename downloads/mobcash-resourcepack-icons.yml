@@ -1,0 +1,424 @@
+# MobCash ResourcePack - lista ikon
+# Material wszystkich ikon: PAPER
+# Przyklad configu: custom-model-data: 20001
+icons:
+  v1_banknot:
+    material: PAPER
+    custom-model-data: 20001
+    item-model: 'mobcash:v1_banknot'
+  v1_chat:
+    material: PAPER
+    custom-model-data: 20002
+    item-model: 'mobcash:v1_chat'
+  v1_checkbox:
+    material: PAPER
+    custom-model-data: 20003
+    item-model: 'mobcash:v1_checkbox'
+  v1_coin:
+    material: PAPER
+    custom-model-data: 20004
+    item-model: 'mobcash:v1_coin'
+  v1_cukierek:
+    material: PAPER
+    custom-model-data: 20005
+    item-model: 'mobcash:v1_cukierek'
+  v1_czaszka:
+    material: PAPER
+    custom-model-data: 20006
+    item-model: 'mobcash:v1_czaszka'
+  v1_dzida:
+    material: PAPER
+    custom-model-data: 20007
+    item-model: 'mobcash:v1_dzida'
+  v1_gwiazdka:
+    material: PAPER
+    custom-model-data: 20008
+    item-model: 'mobcash:v1_gwiazdka'
+  v1_helm:
+    material: PAPER
+    custom-model-data: 20009
+    item-model: 'mobcash:v1_helm'
+  v1_kamien:
+    material: PAPER
+    custom-model-data: 20010
+    item-model: 'mobcash:v1_kamien'
+  v1_kiel:
+    material: PAPER
+    custom-model-data: 20011
+    item-model: 'mobcash:v1_kiel'
+  v1_kilof:
+    material: PAPER
+    custom-model-data: 20012
+    item-model: 'mobcash:v1_kilof'
+  v1_klan:
+    material: PAPER
+    custom-model-data: 20013
+    item-model: 'mobcash:v1_klan'
+  v1_klata:
+    material: PAPER
+    custom-model-data: 20014
+    item-model: 'mobcash:v1_klata'
+  v1_klata3:
+    material: PAPER
+    custom-model-data: 20015
+    item-model: 'mobcash:v1_klata3'
+  v1_klejnot:
+    material: PAPER
+    custom-model-data: 20016
+    item-model: 'mobcash:v1_klejnot'
+  v1_klucz:
+    material: PAPER
+    custom-model-data: 20017
+    item-model: 'mobcash:v1_klucz'
+  v1_kociolek:
+    material: PAPER
+    custom-model-data: 20018
+    item-model: 'mobcash:v1_kociolek'
+  v1_koronka:
+    material: PAPER
+    custom-model-data: 20019
+    item-model: 'mobcash:v1_koronka'
+  v1_kosa:
+    material: PAPER
+    custom-model-data: 20020
+    item-model: 'mobcash:v1_kosa'
+  v1_kula:
+    material: PAPER
+    custom-model-data: 20021
+    item-model: 'mobcash:v1_kula'
+  v1_kupon:
+    material: PAPER
+    custom-model-data: 20022
+    item-model: 'mobcash:v1_kupon'
+  v1_latarka:
+    material: PAPER
+    custom-model-data: 20023
+    item-model: 'mobcash:v1_latarka'
+  v1_lornetka:
+    material: PAPER
+    custom-model-data: 20024
+    item-model: 'mobcash:v1_lornetka'
+  v1_luk:
+    material: PAPER
+    custom-model-data: 20025
+    item-model: 'mobcash:v1_luk'
+  v1_magnes:
+    material: PAPER
+    custom-model-data: 20026
+    item-model: 'mobcash:v1_magnes'
+  v1_mapa:
+    material: PAPER
+    custom-model-data: 20027
+    item-model: 'mobcash:v1_mapa'
+  v1_medalion:
+    material: PAPER
+    custom-model-data: 20028
+    item-model: 'mobcash:v1_medalion'
+  v1_miecz_2:
+    material: PAPER
+    custom-model-data: 20029
+    item-model: 'mobcash:v1_miecz_2'
+  v1_miecz_3:
+    material: PAPER
+    custom-model-data: 20030
+    item-model: 'mobcash:v1_miecz_3'
+  v1_miecz:
+    material: PAPER
+    custom-model-data: 20031
+    item-model: 'mobcash:v1_miecz'
+  v1_motyka:
+    material: PAPER
+    custom-model-data: 20032
+    item-model: 'mobcash:v1_motyka'
+  v1_nagrobek:
+    material: PAPER
+    custom-model-data: 20033
+    item-model: 'mobcash:v1_nagrobek'
+  v1_parasolka:
+    material: PAPER
+    custom-model-data: 20034
+    item-model: 'mobcash:v1_parasolka'
+  v1_potka:
+    material: PAPER
+    custom-model-data: 20035
+    item-model: 'mobcash:v1_potka'
+  v1_profil:
+    material: PAPER
+    custom-model-data: 20036
+    item-model: 'mobcash:v1_profil'
+  v1_puchar:
+    material: PAPER
+    custom-model-data: 20037
+    item-model: 'mobcash:v1_puchar'
+  v1_sakiewka:
+    material: PAPER
+    custom-model-data: 20038
+    item-model: 'mobcash:v1_sakiewka'
+  v1_serce:
+    material: PAPER
+    custom-model-data: 20039
+    item-model: 'mobcash:v1_serce'
+  v1_shuriken:
+    material: PAPER
+    custom-model-data: 20040
+    item-model: 'mobcash:v1_shuriken'
+  v1_skrzynka:
+    material: PAPER
+    custom-model-data: 20041
+    item-model: 'mobcash:v1_skrzynka'
+  v1_swiecznik:
+    material: PAPER
+    custom-model-data: 20042
+    item-model: 'mobcash:v1_swiecznik'
+  v1_tarcza:
+    material: PAPER
+    custom-model-data: 20043
+    item-model: 'mobcash:v1_tarcza'
+  v1_tiktok:
+    material: PAPER
+    custom-model-data: 20044
+    item-model: 'mobcash:v1_tiktok'
+  v1_x:
+    material: PAPER
+    custom-model-data: 20045
+    item-model: 'mobcash:v1_x'
+  v1_zebatka:
+    material: PAPER
+    custom-model-data: 20046
+    item-model: 'mobcash:v1_zebatka'
+  v1_zielona_siekierka:
+    material: PAPER
+    custom-model-data: 20047
+    item-model: 'mobcash:v1_zielona_siekierka'
+  v1_zlote_serce:
+    material: PAPER
+    custom-model-data: 20048
+    item-model: 'mobcash:v1_zlote_serce'
+  v1_zloty_zegar:
+    material: PAPER
+    custom-model-data: 20049
+    item-model: 'mobcash:v1_zloty_zegar'
+  v1_znak_ostrzegawczy:
+    material: PAPER
+    custom-model-data: 20050
+    item-model: 'mobcash:v1_znak_ostrzegawczy'
+  v1_znak_zapytania:
+    material: PAPER
+    custom-model-data: 20051
+    item-model: 'mobcash:v1_znak_zapytania'
+  v2_aparat:
+    material: PAPER
+    custom-model-data: 20052
+    item-model: 'mobcash:v2_aparat'
+  v2_block:
+    material: PAPER
+    custom-model-data: 20053
+    item-model: 'mobcash:v2_block'
+  v2_coiny:
+    material: PAPER
+    custom-model-data: 20054
+    item-model: 'mobcash:v2_coiny'
+  v2_czaszka:
+    material: PAPER
+    custom-model-data: 20055
+    item-model: 'mobcash:v2_czaszka'
+  v2_diament:
+    material: PAPER
+    custom-model-data: 20056
+    item-model: 'mobcash:v2_diament'
+  v2_discord:
+    material: PAPER
+    custom-model-data: 20057
+    item-model: 'mobcash:v2_discord'
+  v2_gamepad:
+    material: PAPER
+    custom-model-data: 20058
+    item-model: 'mobcash:v2_gamepad'
+  v2_globus:
+    material: PAPER
+    custom-model-data: 20059
+    item-model: 'mobcash:v2_globus'
+  v2_gracz:
+    material: PAPER
+    custom-model-data: 20060
+    item-model: 'mobcash:v2_gracz'
+  v2_gracz2:
+    material: PAPER
+    custom-model-data: 20061
+    item-model: 'mobcash:v2_gracz2'
+  v2_gwiazdka:
+    material: PAPER
+    custom-model-data: 20062
+    item-model: 'mobcash:v2_gwiazdka'
+  v2_helm:
+    material: PAPER
+    custom-model-data: 20063
+    item-model: 'mobcash:v2_helm'
+  v2_helm2:
+    material: PAPER
+    custom-model-data: 20064
+    item-model: 'mobcash:v2_helm2'
+  v2_helm3:
+    material: PAPER
+    custom-model-data: 20065
+    item-model: 'mobcash:v2_helm3'
+  v2_helm4:
+    material: PAPER
+    custom-model-data: 20066
+    item-model: 'mobcash:v2_helm4'
+  v2_kalendarz:
+    material: PAPER
+    custom-model-data: 20067
+    item-model: 'mobcash:v2_kalendarz'
+  v2_kasa:
+    material: PAPER
+    custom-model-data: 20068
+    item-model: 'mobcash:v2_kasa'
+  v2_kij_bejsbolowy:
+    material: PAPER
+    custom-model-data: 20069
+    item-model: 'mobcash:v2_kij_bejsbolowy'
+  v2_klepsydra:
+    material: PAPER
+    custom-model-data: 20070
+    item-model: 'mobcash:v2_klepsydra'
+  v2_klucz:
+    material: PAPER
+    custom-model-data: 20071
+    item-model: 'mobcash:v2_klucz'
+  v2_koronka:
+    material: PAPER
+    custom-model-data: 20072
+    item-model: 'mobcash:v2_koronka'
+  v2_koronka2:
+    material: PAPER
+    custom-model-data: 20073
+    item-model: 'mobcash:v2_koronka2'
+  v2_koronka3:
+    material: PAPER
+    custom-model-data: 20074
+    item-model: 'mobcash:v2_koronka3'
+  v2_kot:
+    material: PAPER
+    custom-model-data: 20075
+    item-model: 'mobcash:v2_kot'
+  v2_lornetka:
+    material: PAPER
+    custom-model-data: 20076
+    item-model: 'mobcash:v2_lornetka'
+  v2_mlot:
+    material: PAPER
+    custom-model-data: 20077
+    item-model: 'mobcash:v2_mlot'
+  v2_mlotek:
+    material: PAPER
+    custom-model-data: 20078
+    item-model: 'mobcash:v2_mlotek'
+  v2_money:
+    material: PAPER
+    custom-model-data: 20079
+    item-model: 'mobcash:v2_money'
+  v2_ogien:
+    material: PAPER
+    custom-model-data: 20080
+    item-model: 'mobcash:v2_ogien'
+  v2_planeta:
+    material: PAPER
+    custom-model-data: 20081
+    item-model: 'mobcash:v2_planeta'
+  v2_planeta2:
+    material: PAPER
+    custom-model-data: 20082
+    item-model: 'mobcash:v2_planeta2'
+  v2_portfel:
+    material: PAPER
+    custom-model-data: 20083
+    item-model: 'mobcash:v2_portfel'
+  v2_potka:
+    material: PAPER
+    custom-model-data: 20084
+    item-model: 'mobcash:v2_potka'
+  v2_potka2:
+    material: PAPER
+    custom-model-data: 20085
+    item-model: 'mobcash:v2_potka2'
+  v2_puchar:
+    material: PAPER
+    custom-model-data: 20086
+    item-model: 'mobcash:v2_puchar'
+  v2_rakieta:
+    material: PAPER
+    custom-model-data: 20087
+    item-model: 'mobcash:v2_rakieta'
+  v2_sakiewka:
+    material: PAPER
+    custom-model-data: 20088
+    item-model: 'mobcash:v2_sakiewka'
+  v2_skrzynka:
+    material: PAPER
+    custom-model-data: 20089
+    item-model: 'mobcash:v2_skrzynka'
+  v2_tarcza:
+    material: PAPER
+    custom-model-data: 20090
+    item-model: 'mobcash:v2_tarcza'
+  v2_zegar:
+    material: PAPER
+    custom-model-data: 20091
+    item-model: 'mobcash:v2_zegar'
+  v2_ziemia:
+    material: PAPER
+    custom-model-data: 20092
+    item-model: 'mobcash:v2_ziemia'
+  money:
+    material: PAPER
+    custom-model-data: 20093
+    item-model: 'mobcash:money'
+  multiplayer:
+    material: PAPER
+    custom-model-data: 20094
+    item-model: 'mobcash:multiplayer'
+  market:
+    material: PAPER
+    custom-model-data: 20095
+    item-model: 'mobcash:market'
+  market_2:
+    material: PAPER
+    custom-model-data: 20096
+    item-model: 'mobcash:market_2'
+  calendar:
+    material: PAPER
+    custom-model-data: 20097
+    item-model: 'mobcash:calendar'
+  battle_pass:
+    material: PAPER
+    custom-model-data: 20098
+    item-model: 'mobcash:battle_pass'
+  shard:
+    material: PAPER
+    custom-model-data: 20099
+    item-model: 'mobcash:shard'
+  gem:
+    material: PAPER
+    custom-model-data: 20100
+    item-model: 'mobcash:gem'
+  upgrade:
+    material: PAPER
+    custom-model-data: 20101
+    item-model: 'mobcash:upgrade'
+  night:
+    material: PAPER
+    custom-model-data: 20102
+    item-model: 'mobcash:night'
+  prestidge:
+    material: PAPER
+    custom-model-data: 20103
+    item-model: 'mobcash:prestidge'
+  rebirth:
+    material: PAPER
+    custom-model-data: 20104
+    item-model: 'mobcash:rebirth'
+  settings:
+    material: PAPER
+    custom-model-data: 20105
+    item-model: 'mobcash:settings'
