@@ -1,6 +1,6 @@
-﻿# MobCash ResourcePack - lista ikon
+# MobCash ResourcePack - lista ikon
 # Symbole czcionki dzialaja bezposrednio w tekscie: czat, hologramy, GUI, scoreboard, TAB itp.
-# Zakres Unicode: \uE001 - \uE069
+# Zakres Unicode: \uE001 - \uE092
 icons:
   v1_banknot:
     symbol: ''
@@ -170,24 +170,24 @@ icons:
     material: PAPER
     custom-model-data: 20028
     item-model: 'mobcash:v1_medalion'
-  v1_miecz:
+  v1_miecz_2:
     symbol: ''
     unicode: '\uE01D'
     material: PAPER
     custom-model-data: 20029
-    item-model: 'mobcash:v1_miecz'
-  v1_miecz_2:
+    item-model: 'mobcash:v1_miecz_2'
+  v1_miecz_3:
     symbol: ''
     unicode: '\uE01E'
     material: PAPER
     custom-model-data: 20030
-    item-model: 'mobcash:v1_miecz_2'
-  v1_miecz_3:
+    item-model: 'mobcash:v1_miecz_3'
+  v1_miecz:
     symbol: ''
     unicode: '\uE01F'
     material: PAPER
     custom-model-data: 20031
-    item-model: 'mobcash:v1_miecz_3'
+    item-model: 'mobcash:v1_miecz'
   v1_motyka:
     symbol: ''
     unicode: '\uE020'
@@ -632,3 +632,249 @@ icons:
     material: PAPER
     custom-model-data: 20105
     item-model: 'mobcash:settings'
+  rank_admin:
+    symbol: ''
+    unicode: '\uE06A'
+    material: PAPER
+    custom-model-data: 20106
+    item-model: 'mobcash:rank_admin'
+  rank_bogacz:
+    symbol: ''
+    unicode: '\uE06B'
+    material: PAPER
+    custom-model-data: 20107
+    item-model: 'mobcash:rank_bogacz'
+  rank_boss:
+    symbol: ''
+    unicode: '\uE06C'
+    material: PAPER
+    custom-model-data: 20108
+    item-model: 'mobcash:rank_boss'
+  rank_ceo:
+    symbol: ''
+    unicode: '\uE06D'
+    material: PAPER
+    custom-model-data: 20109
+    item-model: 'mobcash:rank_ceo'
+  rank_chat_m:
+    symbol: ''
+    unicode: '\uE06E'
+    material: PAPER
+    custom-model-data: 20110
+    item-model: 'mobcash:rank_chat_m'
+  rank_danger:
+    symbol: ''
+    unicode: '\uE06F'
+    material: PAPER
+    custom-model-data: 20111
+    item-model: 'mobcash:rank_danger'
+  rank_dev:
+    symbol: ''
+    unicode: '\uE070'
+    material: PAPER
+    custom-model-data: 20112
+    item-model: 'mobcash:rank_dev'
+  rank_discord:
+    symbol: ''
+    unicode: '\uE071'
+    material: PAPER
+    custom-model-data: 20113
+    item-model: 'mobcash:rank_discord'
+  rank_farmer:
+    symbol: ''
+    unicode: '\uE072'
+    material: PAPER
+    custom-model-data: 20114
+    item-model: 'mobcash:rank_farmer'
+  rank_friend:
+    symbol: ''
+    unicode: '\uE073'
+    material: PAPER
+    custom-model-data: 20115
+    item-model: 'mobcash:rank_friend'
+  rank_gracz:
+    symbol: ''
+    unicode: '\uE074'
+    material: PAPER
+    custom-model-data: 20116
+    item-model: 'mobcash:rank_gracz'
+  rank_gvip:
+    symbol: ''
+    unicode: '\uE075'
+    material: PAPER
+    custom-model-data: 20117
+    item-model: 'mobcash:rank_gvip'
+  rank_h_adm:
+    symbol: ''
+    unicode: '\uE076'
+    material: PAPER
+    custom-model-data: 20118
+    item-model: 'mobcash:rank_h_adm'
+  rank_helper:
+    symbol: ''
+    unicode: '\uE077'
+    material: PAPER
+    custom-model-data: 20119
+    item-model: 'mobcash:rank_helper'
+  rank_jr_adm:
+    symbol: ''
+    unicode: '\uE078'
+    material: PAPER
+    custom-model-data: 20120
+    item-model: 'mobcash:rank_jr_adm'
+  rank_jr_mod:
+    symbol: ''
+    unicode: '\uE079'
+    material: PAPER
+    custom-model-data: 20121
+    item-model: 'mobcash:rank_jr_mod'
+  rank_king:
+    symbol: ''
+    unicode: '\uE07A'
+    material: PAPER
+    custom-model-data: 20122
+    item-model: 'mobcash:rank_king'
+  rank_master:
+    symbol: ''
+    unicode: '\uE07B'
+    material: PAPER
+    custom-model-data: 20123
+    item-model: 'mobcash:rank_master'
+  rank_media:
+    symbol: ''
+    unicode: '\uE07C'
+    material: PAPER
+    custom-model-data: 20124
+    item-model: 'mobcash:rank_media'
+  rank_mmedia:
+    symbol: ''
+    unicode: '\uE07D'
+    material: PAPER
+    custom-model-data: 20125
+    item-model: 'mobcash:rank_mmedia'
+  rank_mod:
+    symbol: ''
+    unicode: '\uE07E'
+    material: PAPER
+    custom-model-data: 20126
+    item-model: 'mobcash:rank_mod'
+  rank_mvip:
+    symbol: ''
+    unicode: '\uE07F'
+    material: PAPER
+    custom-model-data: 20127
+    item-model: 'mobcash:rank_mvip'
+  rank_ninja:
+    symbol: ''
+    unicode: '\uE080'
+    material: PAPER
+    custom-model-data: 20128
+    item-model: 'mobcash:rank_ninja'
+  rank_opiekun:
+    symbol: ''
+    unicode: '\uE081'
+    material: PAPER
+    custom-model-data: 20129
+    item-model: 'mobcash:rank_opiekun'
+  rank_partner:
+    symbol: ''
+    unicode: '\uE082'
+    material: PAPER
+    custom-model-data: 20130
+    item-model: 'mobcash:rank_partner'
+  rank_root:
+    symbol: ''
+    unicode: '\uE083'
+    material: PAPER
+    custom-model-data: 20131
+    item-model: 'mobcash:rank_root'
+  rank_space:
+    symbol: ''
+    unicode: '\uE084'
+    material: PAPER
+    custom-model-data: 20132
+    item-model: 'mobcash:rank_space'
+  rank_sponsor:
+    symbol: ''
+    unicode: '\uE085'
+    material: PAPER
+    custom-model-data: 20133
+    item-model: 'mobcash:rank_sponsor'
+  rank_sr_adm:
+    symbol: ''
+    unicode: '\uE086'
+    material: PAPER
+    custom-model-data: 20134
+    item-model: 'mobcash:rank_sr_adm'
+  rank_sr_mod:
+    symbol: ''
+    unicode: '\uE087'
+    material: PAPER
+    custom-model-data: 20135
+    item-model: 'mobcash:rank_sr_mod'
+  rank_support:
+    symbol: ''
+    unicode: '\uE088'
+    material: PAPER
+    custom-model-data: 20136
+    item-model: 'mobcash:rank_support'
+  rank_svip:
+    symbol: ''
+    unicode: '\uE089'
+    material: PAPER
+    custom-model-data: 20137
+    item-model: 'mobcash:rank_svip'
+  rank_test_h:
+    symbol: ''
+    unicode: '\uE08A'
+    material: PAPER
+    custom-model-data: 20138
+    item-model: 'mobcash:rank_test_h'
+  rank_test_sup:
+    symbol: ''
+    unicode: '\uE08B'
+    material: PAPER
+    custom-model-data: 20139
+    item-model: 'mobcash:rank_test_sup'
+  rank_tester:
+    symbol: ''
+    unicode: '\uE08C'
+    material: PAPER
+    custom-model-data: 20140
+    item-model: 'mobcash:rank_tester'
+  rank_tworca:
+    symbol: ''
+    unicode: '\uE08D'
+    material: PAPER
+    custom-model-data: 20141
+    item-model: 'mobcash:rank_tworca'
+  rank_uvip:
+    symbol: ''
+    unicode: '\uE08E'
+    material: PAPER
+    custom-model-data: 20142
+    item-model: 'mobcash:rank_uvip'
+  rank_vceo:
+    symbol: ''
+    unicode: '\uE08F'
+    material: PAPER
+    custom-model-data: 20143
+    item-model: 'mobcash:rank_vceo'
+  rank_vip:
+    symbol: ''
+    unicode: '\uE090'
+    material: PAPER
+    custom-model-data: 20144
+    item-model: 'mobcash:rank_vip'
+  rank_vroot:
+    symbol: ''
+    unicode: '\uE091'
+    material: PAPER
+    custom-model-data: 20145
+    item-model: 'mobcash:rank_vroot'
+  rank_wizard:
+    symbol: ''
+    unicode: '\uE092'
+    material: PAPER
+    custom-model-data: 20146
+    item-model: 'mobcash:rank_wizard'
