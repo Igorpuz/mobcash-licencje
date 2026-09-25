@@ -1,4 +1,4 @@
-# MobCash ResourcePack - lista ikon
+﻿# MobCash ResourcePack - lista ikon
 # Symbole czcionki dzialaja bezposrednio w tekscie: czat, hologramy, GUI, scoreboard, TAB itp.
 # Zakres Unicode: \uE001 - \uE092
 icons:
@@ -170,24 +170,24 @@ icons:
     material: PAPER
     custom-model-data: 20028
     item-model: 'mobcash:v1_medalion'
-  v1_miecz_2:
+  v1_miecz:
     symbol: ''
     unicode: '\uE01D'
     material: PAPER
     custom-model-data: 20029
-    item-model: 'mobcash:v1_miecz_2'
-  v1_miecz_3:
+    item-model: 'mobcash:v1_miecz'
+  v1_miecz_2:
     symbol: ''
     unicode: '\uE01E'
     material: PAPER
     custom-model-data: 20030
-    item-model: 'mobcash:v1_miecz_3'
-  v1_miecz:
+    item-model: 'mobcash:v1_miecz_2'
+  v1_miecz_3:
     symbol: ''
     unicode: '\uE01F'
     material: PAPER
     custom-model-data: 20031
-    item-model: 'mobcash:v1_miecz'
+    item-model: 'mobcash:v1_miecz_3'
   v1_motyka:
     symbol: ''
     unicode: '\uE020'

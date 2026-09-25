@@ -1,4 +1,4 @@
-MobCash ResourcePack - prefixy rang LuckPerms
+﻿MobCash ResourcePack - prefixy rang LuckPerms
 
 Format: GRUPA | KOD | SYMBOL | KOMENDA LUCKPERMS
 Uwaga: symbol musi zostac wklejony jako znak, a nie tekst \\uE000.
