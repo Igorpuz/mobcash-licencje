@@ -1,6 +1,3 @@
-﻿# MobCash ResourcePack - lista ikon
-# Symbole czcionki dzialaja bezposrednio w tekscie: czat, hologramy, GUI, scoreboard, TAB itp.
-# Zakres Unicode: \uE001 - \uE092
 icons:
   v1_banknot:
     symbol: ''
@@ -878,3 +875,447 @@ icons:
     material: PAPER
     custom-model-data: 20146
     item-model: 'mobcash:rank_wizard'
+  icons_autosell:
+    symbol: ''
+    unicode: '\uE093'
+    material: PAPER
+    custom-model-data: 20147
+    item-model: 'mobcash:icons_autosell'
+  icons_barrier:
+    symbol: ''
+    unicode: '\uE094'
+    material: PAPER
+    custom-model-data: 20148
+    item-model: 'mobcash:icons_barrier'
+  icons_cash:
+    symbol: ''
+    unicode: '\uE095'
+    material: PAPER
+    custom-model-data: 20149
+    item-model: 'mobcash:icons_cash'
+  icons_clock:
+    symbol: ''
+    unicode: '\uE096'
+    material: PAPER
+    custom-model-data: 20150
+    item-model: 'mobcash:icons_clock'
+  icons_coins:
+    symbol: ''
+    unicode: '\uE097'
+    material: PAPER
+    custom-model-data: 20151
+    item-model: 'mobcash:icons_coins'
+  icons_czaszka:
+    symbol: ''
+    unicode: '\uE098'
+    material: PAPER
+    custom-model-data: 20152
+    item-model: 'mobcash:icons_czaszka'
+  icons_demon:
+    symbol: ''
+    unicode: '\uE099'
+    material: PAPER
+    custom-model-data: 20153
+    item-model: 'mobcash:icons_demon'
+  icons_dollar:
+    symbol: ''
+    unicode: '\uE09A'
+    material: PAPER
+    custom-model-data: 20154
+    item-model: 'mobcash:icons_dollar'
+  icons_dollar2:
+    symbol: ''
+    unicode: '\uE09B'
+    material: PAPER
+    custom-model-data: 20155
+    item-model: 'mobcash:icons_dollar2'
+  icons_elytra:
+    symbol: ''
+    unicode: '\uE09C'
+    material: PAPER
+    custom-model-data: 20156
+    item-model: 'mobcash:icons_elytra'
+  icons_fala:
+    symbol: ''
+    unicode: '\uE09D'
+    material: PAPER
+    custom-model-data: 20157
+    item-model: 'mobcash:icons_fala'
+  icons_fire:
+    symbol: ''
+    unicode: '\uE09E'
+    material: PAPER
+    custom-model-data: 20158
+    item-model: 'mobcash:icons_fire'
+  icons_flaga:
+    symbol: ''
+    unicode: '\uE09F'
+    material: PAPER
+    custom-model-data: 20159
+    item-model: 'mobcash:icons_flaga'
+  icons_flash:
+    symbol: ''
+    unicode: '\uE0A0'
+    material: PAPER
+    custom-model-data: 20160
+    item-model: 'mobcash:icons_flash'
+  icons_ghost:
+    symbol: ''
+    unicode: '\uE0A1'
+    material: PAPER
+    custom-model-data: 20161
+    item-model: 'mobcash:icons_ghost'
+  icons_icon_deaths:
+    symbol: ''
+    unicode: '\uE0A2'
+    material: PAPER
+    custom-model-data: 20162
+    item-model: 'mobcash:icons_icon_deaths'
+  icons_icon_demon:
+    symbol: ''
+    unicode: '\uE0A3'
+    material: PAPER
+    custom-model-data: 20163
+    item-model: 'mobcash:icons_icon_demon'
+  icons_icon_ghost:
+    symbol: ''
+    unicode: '\uE0A4'
+    material: PAPER
+    custom-model-data: 20164
+    item-model: 'mobcash:icons_icon_ghost'
+  icons_icon_kills:
+    symbol: ''
+    unicode: '\uE0A5'
+    material: PAPER
+    custom-model-data: 20165
+    item-model: 'mobcash:icons_icon_kills'
+  icons_icon_members:
+    symbol: ''
+    unicode: '\uE0A6'
+    material: PAPER
+    custom-model-data: 20166
+    item-model: 'mobcash:icons_icon_members'
+  icons_icon_money:
+    symbol: ''
+    unicode: '\uE0A7'
+    material: PAPER
+    custom-model-data: 20167
+    item-model: 'mobcash:icons_icon_money'
+  icons_icon_player:
+    symbol: ''
+    unicode: '\uE0A8'
+    material: PAPER
+    custom-model-data: 20168
+    item-model: 'mobcash:icons_icon_player'
+  icons_icon_points:
+    symbol: ''
+    unicode: '\uE0A9'
+    material: PAPER
+    custom-model-data: 20169
+    item-model: 'mobcash:icons_icon_points'
+  icons_icon_rank:
+    symbol: ''
+    unicode: '\uE0AA'
+    material: PAPER
+    custom-model-data: 20170
+    item-model: 'mobcash:icons_icon_rank'
+  icons_icon_rose_gold:
+    symbol: ''
+    unicode: '\uE0AB'
+    material: PAPER
+    custom-model-data: 20171
+    item-model: 'mobcash:icons_icon_rose_gold'
+  icons_icon_time:
+    symbol: ''
+    unicode: '\uE0AC'
+    material: PAPER
+    custom-model-data: 20172
+    item-model: 'mobcash:icons_icon_time'
+  icons_icon_top:
+    symbol: ''
+    unicode: '\uE0AD'
+    material: PAPER
+    custom-model-data: 20173
+    item-model: 'mobcash:icons_icon_top'
+  icons_kilofik:
+    symbol: ''
+    unicode: '\uE0AE'
+    material: PAPER
+    custom-model-data: 20174
+    item-model: 'mobcash:icons_kilofik'
+  icons_klucz:
+    symbol: ''
+    unicode: '\uE0AF'
+    material: PAPER
+    custom-model-data: 20175
+    item-model: 'mobcash:icons_klucz'
+  icons_level:
+    symbol: ''
+    unicode: '\uE0B0'
+    material: PAPER
+    custom-model-data: 20176
+    item-model: 'mobcash:icons_level'
+  icons_logo:
+    symbol: ''
+    unicode: '\uE0B1'
+    material: PAPER
+    custom-model-data: 20177
+    item-model: 'mobcash:icons_logo'
+  icons_miecz:
+    symbol: ''
+    unicode: '\uE0B2'
+    material: PAPER
+    custom-model-data: 20178
+    item-model: 'mobcash:icons_miecz'
+  icons_motyka:
+    symbol: ''
+    unicode: '\uE0B3'
+    material: PAPER
+    custom-model-data: 20179
+    item-model: 'mobcash:icons_motyka'
+  icons_ogien:
+    symbol: ''
+    unicode: '\uE0B4'
+    material: PAPER
+    custom-model-data: 20180
+    item-model: 'mobcash:icons_ogien'
+  icons_osoba_cash:
+    symbol: ''
+    unicode: '\uE0B5'
+    material: PAPER
+    custom-model-data: 20181
+    item-model: 'mobcash:icons_osoba_cash'
+  icons_piorun:
+    symbol: ''
+    unicode: '\uE0B6'
+    material: PAPER
+    custom-model-data: 20182
+    item-model: 'mobcash:icons_piorun'
+  icons_pochodnia:
+    symbol: ''
+    unicode: '\uE0B7'
+    material: PAPER
+    custom-model-data: 20183
+    item-model: 'mobcash:icons_pochodnia'
+  icons_prezent:
+    symbol: ''
+    unicode: '\uE0B8'
+    material: PAPER
+    custom-model-data: 20184
+    item-model: 'mobcash:icons_prezent'
+  icons_right:
+    symbol: ''
+    unicode: '\uE0B9'
+    material: PAPER
+    custom-model-data: 20185
+    item-model: 'mobcash:icons_right'
+  icons_scoreboard__heart:
+    symbol: ''
+    unicode: '\uE0BA'
+    material: PAPER
+    custom-model-data: 20186
+    item-model: 'mobcash:icons_scoreboard__heart'
+  icons_scoreboard_channel:
+    symbol: ''
+    unicode: '\uE0BB'
+    material: PAPER
+    custom-model-data: 20187
+    item-model: 'mobcash:icons_scoreboard_channel'
+  icons_scoreboard_channel_arrow:
+    symbol: ''
+    unicode: '\uE0BC'
+    material: PAPER
+    custom-model-data: 20188
+    item-model: 'mobcash:icons_scoreboard_channel_arrow'
+  icons_scoreboard_deaths:
+    symbol: ''
+    unicode: '\uE0BD'
+    material: PAPER
+    custom-model-data: 20189
+    item-model: 'mobcash:icons_scoreboard_deaths'
+  icons_scoreboard_generator:
+    symbol: ''
+    unicode: '\uE0BE'
+    material: PAPER
+    custom-model-data: 20190
+    item-model: 'mobcash:icons_scoreboard_generator'
+  icons_scoreboard_guild:
+    symbol: ''
+    unicode: '\uE0BF'
+    material: PAPER
+    custom-model-data: 20191
+    item-model: 'mobcash:icons_scoreboard_guild'
+  icons_scoreboard_heart:
+    symbol: ''
+    unicode: '\uE0C0'
+    material: PAPER
+    custom-model-data: 20192
+    item-model: 'mobcash:icons_scoreboard_heart'
+  icons_scoreboard_island:
+    symbol: ''
+    unicode: '\uE0C1'
+    material: PAPER
+    custom-model-data: 20193
+    item-model: 'mobcash:icons_scoreboard_island'
+  icons_scoreboard_kills:
+    symbol: ''
+    unicode: '\uE0C2'
+    material: PAPER
+    custom-model-data: 20194
+    item-model: 'mobcash:icons_scoreboard_kills'
+  icons_scoreboard_level_1:
+    symbol: ''
+    unicode: '\uE0C3'
+    material: PAPER
+    custom-model-data: 20195
+    item-model: 'mobcash:icons_scoreboard_level_1'
+  icons_scoreboard_level_2:
+    symbol: ''
+    unicode: '\uE0C4'
+    material: PAPER
+    custom-model-data: 20196
+    item-model: 'mobcash:icons_scoreboard_level_2'
+  icons_scoreboard_level_3:
+    symbol: ''
+    unicode: '\uE0C5'
+    material: PAPER
+    custom-model-data: 20197
+    item-model: 'mobcash:icons_scoreboard_level_3'
+  icons_scoreboard_level_4:
+    symbol: ''
+    unicode: '\uE0C6'
+    material: PAPER
+    custom-model-data: 20198
+    item-model: 'mobcash:icons_scoreboard_level_4'
+  icons_scoreboard_level_5:
+    symbol: ''
+    unicode: '\uE0C7'
+    material: PAPER
+    custom-model-data: 20199
+    item-model: 'mobcash:icons_scoreboard_level_5'
+  icons_scoreboard_level_6:
+    symbol: ''
+    unicode: '\uE0C8'
+    material: PAPER
+    custom-model-data: 20200
+    item-model: 'mobcash:icons_scoreboard_level_6'
+  icons_scoreboard_members:
+    symbol: ''
+    unicode: '\uE0C9'
+    material: PAPER
+    custom-model-data: 20201
+    item-model: 'mobcash:icons_scoreboard_members'
+  icons_scoreboard_money:
+    symbol: ''
+    unicode: '\uE0CA'
+    material: PAPER
+    custom-model-data: 20202
+    item-model: 'mobcash:icons_scoreboard_money'
+  icons_scoreboard_player:
+    symbol: ''
+    unicode: '\uE0CB'
+    material: PAPER
+    custom-model-data: 20203
+    item-model: 'mobcash:icons_scoreboard_player'
+  icons_scoreboard_points:
+    symbol: ''
+    unicode: '\uE0CC'
+    material: PAPER
+    custom-model-data: 20204
+    item-model: 'mobcash:icons_scoreboard_points'
+  icons_scoreboard_rank:
+    symbol: ''
+    unicode: '\uE0CD'
+    material: PAPER
+    custom-model-data: 20205
+    item-model: 'mobcash:icons_scoreboard_rank'
+  icons_scoreboard_time:
+    symbol: ''
+    unicode: '\uE0CE'
+    material: PAPER
+    custom-model-data: 20206
+    item-model: 'mobcash:icons_scoreboard_time'
+  icons_scoreboard_top:
+    symbol: ''
+    unicode: '\uE0CF'
+    material: PAPER
+    custom-model-data: 20207
+    item-model: 'mobcash:icons_scoreboard_top'
+  icons_serce:
+    symbol: ''
+    unicode: '\uE0D0'
+    material: PAPER
+    custom-model-data: 20208
+    item-model: 'mobcash:icons_serce'
+  icons_serwer:
+    symbol: ''
+    unicode: '\uE0D1'
+    material: PAPER
+    custom-model-data: 20209
+    item-model: 'mobcash:icons_serwer'
+  icons_skeleton:
+    symbol: ''
+    unicode: '\uE0D2'
+    material: PAPER
+    custom-model-data: 20210
+    item-model: 'mobcash:icons_skeleton'
+  icons_snieg:
+    symbol: ''
+    unicode: '\uE0D3'
+    material: PAPER
+    custom-model-data: 20211
+    item-model: 'mobcash:icons_snieg'
+  icons_star:
+    symbol: ''
+    unicode: '\uE0D4'
+    material: PAPER
+    custom-model-data: 20212
+    item-model: 'mobcash:icons_star'
+  icons_tiktok:
+    symbol: ''
+    unicode: '\uE0D5'
+    material: PAPER
+    custom-model-data: 20213
+    item-model: 'mobcash:icons_tiktok'
+  icons_warning:
+    symbol: ''
+    unicode: '\uE0D6'
+    material: PAPER
+    custom-model-data: 20214
+    item-model: 'mobcash:icons_warning'
+  icons_weapon_lvl:
+    symbol: ''
+    unicode: '\uE0D7'
+    material: PAPER
+    custom-model-data: 20215
+    item-model: 'mobcash:icons_weapon_lvl'
+  icons_wyspa:
+    symbol: ''
+    unicode: '\uE0D8'
+    material: PAPER
+    custom-model-data: 20216
+    item-model: 'mobcash:icons_wyspa'
+  icons_zegar:
+    symbol: ''
+    unicode: '\uE0D9'
+    material: PAPER
+    custom-model-data: 20217
+    item-model: 'mobcash:icons_zegar'
+  icons_ziemia:
+    symbol: ''
+    unicode: '\uE0DA'
+    material: PAPER
+    custom-model-data: 20218
+    item-model: 'mobcash:icons_ziemia'
+  icons_znak_zapytania:
+    symbol: ''
+    unicode: '\uE0DB'
+    material: PAPER
+    custom-model-data: 20219
+    item-model: 'mobcash:icons_znak_zapytania'
+  icons_zombie:
+    symbol: ''
+    unicode: '\uE0DC'
+    material: PAPER
+    custom-model-data: 20220
+    item-model: 'mobcash:icons_zombie'
